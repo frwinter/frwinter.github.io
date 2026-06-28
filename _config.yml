@@ -6,14 +6,22 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
+<<<<<<< HEAD
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
 timezone:
+=======
+lang: de
+
+# Change to your timezone › https://zones.arilyn.cc
+timezone: Europe/Berlin
+>>>>>>> 302a941 (Config Changes)
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+<<<<<<< HEAD
 title: Chirpy # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
@@ -27,6 +35,21 @@ url: ""
 
 github:
   username: github_username # change to your GitHub username
+=======
+title: Franz Winter # the main title
+
+tagline: Random Blog eines Random Studis # it will display as the subtitle
+
+description: >- # used by seo meta and the atom feed
+  Hier werden Beiträge zur OvGU, Stura, SDS, Technik und Organisations"sachen" veröffentlich
+
+# Fill in the protocol & hostname for your site.
+# E.g. 'https://username.github.io', note that it does not end with a '/'.
+url: "https://frwinter.github.io"
+
+github:
+  username: frwinter # change to your GitHub username
+>>>>>>> 302a941 (Config Changes)
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,9 +57,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
+<<<<<<< HEAD
   name: your_full_name
   email: example@domain.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+=======
+  name: Franz Winter
+  email: franz.winter@ovgu.de # change to your email address
+  fediverse_handle: @lgfranzw@machteburch.social # fill in your fediverse handle. E.g. "@username@domain.com"
+>>>>>>> 302a941 (Config Changes)
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -89,7 +118,11 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
+<<<<<<< HEAD
 theme_mode: # [light | dark]
+=======
+theme_mode: dark # [light | dark]
+>>>>>>> 302a941 (Config Changes)
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url

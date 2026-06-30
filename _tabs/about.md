@@ -8,3 +8,4 @@ order: 4
 {: .prompt-tip }
 
 This is a test.
+This is a second test.
